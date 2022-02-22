@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Batchellors answer to the maids complaint, or, The Young men's vindication cleering themselves from those unjust aspersions, and setting forth the subtle tricks and vices of the female party : with the terms they resolve to stand upon if ever they marry.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27927</idno>
+            <idno type="STC">Wing B257</idno>
+            <idno type="STC">ESTC R37048</idno>
+            <idno type="EEBO-CITATION">16197017</idno>
+            <idno type="OCLC">ocm 16197017</idno>
+            <idno type="VID">105040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1085:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Batchellors answer to the maids complaint, or, The Young men's vindication cleering themselves from those unjust aspersions, and setting forth the subtle tricks and vices of the female party : with the terms they resolve to stand upon if ever they marry.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Coniers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Domestic relations --  Anecdotes</term>
+               <term>Marriage --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105040:1" rendition="simple:additions"/>
+            <pb facs="tcp:105040:1" rendition="simple:additions"/>
+            <p>THE Batchellors Anſwer TO THE Maids Complaint OR THE YOUNG MEN'S VINDICATION.</p>
+            <p>Cleering themſelves from thoſe unjuſt Aſperſions, and ſetting forth the ſubtle Tricks and Vices of the Female Party.</p>
+            <p>WITH The Terms they reſolve to ſtand upon if ever they Marry.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. Coniers,</hi> at the <hi>Black-Raven</hi> in <hi>Duck-Lane,</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105040:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:105040:2" rendition="simple:additions"/>
+            <head>The Batchellors Anſwer <hi>TO</hi> The Maids Complaint</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter ſo many Proofs of our Affection as we have given you, little did we think you could have been ſo ungrateful, as thus publiquely to exclaim againſt us; we would freely excuſe your <hi>modeſty</hi> without an Apolo<g ref="char:EOLhyphen"/>gy, if you had really cauſe to complain; but your Reproach<g ref="char:EOLhyphen"/>es are as <hi>unjust</hi> as they are confident, and your Alliga<g ref="char:EOLhyphen"/>tions no leſs <hi>falſe</hi> in themſelves than unbecoming your Sex. We appeal to all Hiſtory, whether there were ever a more <hi>Amorous</hi> Age, and are confident <hi>Venus</hi> was never ſo much <hi>worſhipped</hi> in <hi>Cyprus,</hi> as ſhe has been of late amongſt <hi>us:</hi> Formerly indeed the good <hi>Laſſes</hi> were wont to expect the <hi>Teens,</hi> but you now adays prevent them.</p>
+            <p>We are not ignorant of thoſe <hi>little Arts</hi> you menti<g ref="char:EOLhyphen"/>on, uſed by you to <hi>whedle</hi> us into Dotage; but we know alſo that for all your Angelical looks you are the <hi>Tay<g ref="char:EOLhyphen"/>lors</hi>
+               <pb n="4" facs="tcp:105040:3"/>Creatures as much as Natures; and owe your Ro<g ref="char:EOLhyphen"/>ſie Complexions to the <hi>dreſſing box,</hi> we are partly ſen<g ref="char:EOLhyphen"/>ſible how many loathſome hereditary <hi>Diſeaſes</hi> you de<g ref="char:EOLhyphen"/>rive from your wanton Mothers: and care not much for an everlaſting <hi>Bed-fellow.</hi> We underſtand right well your treacherous <hi>Smiles,</hi> and your diſſembling <hi>Tears</hi> too, which you have always ready at a Minutes warning. What Pride you take in the number of your <hi>Servants,</hi> and how ſubtlely you <hi>manage</hi> them to the beſt advantage; feeding all with e<g ref="char:EOLhyphen"/>qual <hi>hopes</hi> to make every one the freer of his preſents. Thus you ſit in <hi>Jacks</hi> Lap, and at the ſame inſtant tread <hi>Will</hi> on the Toe; ſell a kind <hi>look</hi> to one for a Diamond Ring, and half a <hi>Kiſs</hi> to another for a Rich <hi>Locket,</hi> or <hi>Bracelet;</hi> and then laugh at both the filly <hi>Fops,</hi> for be<g ref="char:EOLhyphen"/>ing bubbled ſo eaſily: well therefore may you reckon your <hi>Temptations</hi> amongſt your Studies, but that the Soul and <hi>Gallantry</hi> of a Man ſhould be baſely proſtitu<g ref="char:EOLhyphen"/>ted to them, is as ridiculous, as for an Eagle to ſtoop at Flies. We know not (to uſe your own Compari<g ref="char:EOLhyphen"/>ſon why a Woman ſhould not be viewed with as little Ardour as an handſome <hi>Statue.</hi> For what is the Influ<g ref="char:EOLhyphen"/>ence of Fleſh, as to the Eye, above that of Marble? When we come into a ſpacious Gallery variouſly be<g ref="char:EOLhyphen"/>hung with Curious pieces, we can walk it round, look on this Picture, and like it, then turn our Faces, and forget it in the Beauty of the next; why may we not do ſo with Women, ſince they upon the whole mat<g ref="char:EOLhyphen"/>ter are but Pictures too; and for the moſt part ſcurvily <hi>Painted?</hi> Not but that we could be content to trifle a<g ref="char:EOLhyphen"/>way our <hi>idle</hi> hours with you; and allow you the end of your Creation, as things born <hi>(Ad uſum &amp; luſum
+<pb n="5" facs="tcp:105040:3" rendition="simple:additions"/>virorum)</hi> for our Paſtimes and Delight; but you would have us paſſionately in <hi>Love</hi> with you <hi>(Heaven bleſs us)</hi> and not only ſo, but to put on the Marriage <hi>Shackles,</hi> a ſlavery worſe than thoſe miſerable wretches ſuffer at <hi>Algiers,</hi> that tugg continually at the Oar. We could love you like <hi>any thing,</hi> no body knows how long, but for ſetling of <hi>Joynctures,</hi> and Coupling for ever and a day, <hi>for better, for worſe</hi> (good <hi>Girls</hi>) we muſt therein beg your Diverſion.</p>
+            <p>To be tyed for term of life like a <hi>Monkey</hi> by the <hi>Loyns</hi> to a Bed poſt, with the ſame Woman is a moſt <hi>uncon<g ref="char:EOLhyphen"/>ſcionable</hi> Propoſall. Alas, 'Tis <hi>Variety</hi> that is the Mo<g ref="char:EOLhyphen"/>ther of delight, and never was there ſuch a <hi>ſtrong</hi> Sto<g ref="char:EOLhyphen"/>mach but would be cloy'd being confined perpetually to one <hi>Diſh:</hi> Beſides, it <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eems an Infringement of the Li<g ref="char:EOLhyphen"/>berty of the Subject and a Violation of Natures <hi>Magna Charta</hi> we muſt tell you every one that wears a <hi>Petticoat</hi> is not capable nor merits the Affections of a man: nay, Commonly it may be ſaid, That the faireſt of your <hi>Sex</hi> (were a mixture of pure white and red, ſuppoſing it natural accompliſhes the Face) are fitter for Miſtreſſes than Wives and yield a more pleaſing entertainment in a <hi>Belcony</hi> or <hi>Coach</hi> than <hi>Bed:</hi> Hence it is that ſo many Men <hi>repent</hi> their Bargains ſo ſoon, and with the ſame eagerneſs have in one years time ſtudied both a <hi>Marri<g ref="char:EOLhyphen"/>age</hi> &amp; a <hi>Divorce,</hi> having not more long'd to obtain, than having obtained to deſert. Their hopes and their Loves periſhing together, the fruition of the one proving the expiration of the other: on this occaſion the Proverb of <hi>Honymoon</hi> came into the World; and if any can con<g ref="char:EOLhyphen"/>tinue a long affection for ſuch, either the Man is extra<g ref="char:EOLhyphen"/>ordinary <hi>good,</hi> or the Woman exceeding cunning;
+<pb n="6" facs="tcp:105040:4"/>or elſe he is a raw <hi>Novice,</hi> who having no experience of the Sex, imagins all to be as his Wife is; as the <hi>Roman</hi> Dame ſuppoſed all Mens Breath to ſtink (ſhe having never kiſſed <hi>any</hi> elſe) becauſe her <hi>Husbands</hi> did ſo: Nor are we therefore to be Reproached for our zealous Profeſſion <hi>before</hi> Marriage, becauſe few live up to them after it, or to be cenſured ſo bitterly for <hi>In<g ref="char:EOLhyphen"/>conſtancy,</hi> becauſe we do not perſiſt in our firſt affection, and declarations: for perhaps the pretty Lady is <hi>chan<g ref="char:EOLhyphen"/>ged,</hi> or does by ſurrender acquaint us with <hi>Diſcoveries,</hi> we neither knew, nor could make before; and there<g ref="char:EOLhyphen"/>fore being deceived, and knowing our ſelves to be ſo; that we ſhould Act and Compart our ſelves, as if we were not ſo, is a <hi>Conſtraint</hi> every Mans Spirit cannot ſubmit to, and to be excuſed as well as the princepal <hi>frailties</hi> whereunto Humane Nature is liable,</p>
+            <p>But we need not argue the caſe thus <hi>ſeriouſly,</hi> The plain Truth is, you would not be ſo fond of <hi>Marriage,</hi> but to gain the greater <hi>Liberty,</hi> &amp; make the Fopps your Husbands <hi>Cloaks</hi> for your wanton Sallies, knowing how much ſoever you are rifled <hi>abroad,</hi> you loſe nothing that they are like to miſs when you come home, and that whoever you afford the pleaſure of <hi>getting</hi> your Chil<g ref="char:EOLhyphen"/>dren, They muſt certainly be at the Charge of <hi>keeping</hi> them; Talk not then to us of making loves to your <hi>Virtues,</hi> if that be the only Charm, what need we lie with you. And though poſſibly it may be true that there may be <hi>ſome</hi> Virtue in ſome Women, yet we are pretty confident there is any ſuch <hi>ſtock</hi> of it in any of you, as to make a Man run out of his <hi>Senſes</hi> for the love of it; Nor think to fright us with your predictions that we ſhall doat on <hi>Dowdies</hi> at laſt, or marry <hi>Old Wo<g ref="char:EOLhyphen"/>men</hi>
+               <pb n="7" facs="tcp:105040:4" rendition="simple:additions"/>for their Mony, that are ready to be Hang'd for <hi>Witches,</hi> for their uglineſs; For even that is better than your ſilly Beggarly <hi>Love-marriage</hi> which is both the <hi>Paradiſe</hi> and <hi>Purgatory</hi> of Fools. A Wife being in <hi>no</hi> caſe ſo allowable as for getting an Eſtate.</p>
+            <p>The pretenſe for propogation of <hi>poſterity</hi> is inſignifi<g ref="char:EOLhyphen"/>cant, for we humbly conceive more Children have been begat in theſe laſt 4000 years, for the ſake of the <hi>means,</hi> than of the End. And though
+<q>Land muſt be Till'd, yet ſince there are enow, Drudges and Slaves'ith World what need we Plow.</q>
+            </p>
+            <p>Let the good Common-wealths-men you talk of look to that, who have not Wit enough to diſtinguiſh be<g ref="char:EOLhyphen"/>tween the Embraces of a Wife, and the Charms of a Miſs, whom you rail at out of meer Envy, becauſe you cannot get Gallants your ſelves; yet do not diſpair ab<g ref="char:EOLhyphen"/>ſolutely, If you will but be obliging and kind, wee'l free you from the dread of leading Apes in Hell, and perhaps when become well ſtrucken in years, we may diſcend to the Folly of Wedlock with you, If you will in the mean time be good Houſe-wives and ſcrape toge<g ref="char:EOLhyphen"/>ther loſty Portions to Bribe us to it; and withall put us in good ſecurity that when we purchaſe you in Fee-tail, we ſhall not be lyable to the Rent Charge of a Gallant, nor the Encumbrance of the Horn, For to tell the naked
+<pb n="8" facs="tcp:105040:5"/>Truth we have no great Stomach to marrying till we ſee other Mens Wives live honeſter.</p>
+            <closer>
+               <dateline>Given at our general Aſſembly in <hi>More-fields,</hi> 
+                  <date>this <hi>Eaſte<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </date>
+               </dateline> 
+               <signed>Your <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery <hi>ready</hi> and most affectione Servants.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
